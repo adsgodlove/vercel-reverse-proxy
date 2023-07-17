@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    { "source": "https://mail.meatball.org.cn", "destination": "https://meatball.org.cn:21681/" }
+    { "source": "https://image.meatball.org.cn", "destination": "https://meatball.org.cn:8000" }
+    ,{ "source": "https://mail.meatball.org.cn", "destination": "https://meatball.org.cn:21681/#/signin" }
   ]
 }
